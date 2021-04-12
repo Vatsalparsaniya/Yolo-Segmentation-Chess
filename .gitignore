@@ -1,2 +1,3 @@
 venv
+Data/inference_data
 !.gitignore
