@@ -1,0 +1,41 @@
+#container{
+    text-align:center;
+    max-width:90%;
+    max-height:576px;
+    margin:0 auto;
+}
+
+.block{
+    max-width:576px;
+    max-height:576px;
+    margin:5px;
+    display:inline-block;
+    background:#00CC99;
+}
+
+#videoElement {
+     max-width: 576px;
+     max-height: 576px;
+     display: none;
+     background-color: #666;
+}
+
+#canvasElement {
+     max-width: 576px;
+     max-height: 576px;
+     border: 1px solid black;
+ }
+
+#ProcessedImage {
+     max-width: 576px;
+     max-height: 576px;
+
+     border: 1px solid black;
+ }
+
+#BorderImage{
+     max-width: 576px;
+     max-height: 576px;
+
+     border: 1px solid black;
+ }
