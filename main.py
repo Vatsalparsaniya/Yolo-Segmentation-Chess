@@ -100,7 +100,8 @@ if __name__ == "__main__":
         logger.info("App Started.")
         socketio.run(app, host="0.0.0.0", port=4812, debug=False,
                      certfile='SSL_Certificate/localhost.crt',
-                     keyfile='SSL_Certificate/localhost.key')
+                     keyfile='SSL_Certificate/localhost.key'
+                     )
 
     except Exception as e:
         print("Exception : ", e)
