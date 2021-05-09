@@ -1,4 +1,5 @@
 import os
+import platform
 
 # Data Collection Config
 
@@ -72,4 +73,9 @@ class_fen_dict = {'white_rook': "R", 'white_knight': "N", 'white_king': "K", 'wh
                   'black_knight': "n", 'black_bishop': "b", 'black_king': "k", 'black_queen': "q"}
 
 # stockfish engine
-engine_path = "models/stockfish/stockfish_10_x64.exe"
+if 'Windows' in platform.system():
+    engine_path = 'models/stockfish/stockfish_10_x64.exe'
+elif 'Linux' in platform.system():
+    engine_path = 'models/stockfish/stockfish_10_x64_linux'
+else:
+    engine_path = 'models/stockfish/stockfish_10_x64_mac'

@@ -6820,3 +6820,249 @@
 2021-05-09 18:10:28,217 - [WARNING] - af1744aa3c4c4e9b993b0e7dbc3d8c01 is not connected to namespace /videofeed
 2021-05-09 18:10:28,251 - [INFO] - received event "Captured_Image" from af1744aa3c4c4e9b993b0e7dbc3d8c01 [/videofeed]
 2021-05-09 18:10:28,251 - [WARNING] - af1744aa3c4c4e9b993b0e7dbc3d8c01 is not connected to namespace /videofeed
+2021-05-09 18:47:02,925 - [INFO] - App Started.
+2021-05-09 18:49:04,961 - [DEBUG] - New client connected: f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:06,863 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:07,014 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:09,088 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:09,097 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:10,106 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:10,128 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:10,608 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:11,723 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:11,732 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:12,967 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:12,976 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:14,285 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:14,292 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:16,076 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:16,085 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:17,670 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:17,688 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:19,082 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:19,093 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:19,413 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:20,370 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:20,377 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:20,721 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:21,914 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:21,930 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:22,401 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:23,420 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:23,439 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:23,744 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:25,039 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:25,056 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:25,689 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:26,661 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:26,676 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:27,069 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:28,034 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:28,056 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:28,384 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:29,400 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:29,411 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:29,707 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:31,096 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:31,110 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:31,538 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:32,992 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:33,011 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:33,546 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:33,876 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:33,888 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:34,365 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:35,503 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:35,522 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:36,949 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:36,960 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:38,479 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:38,490 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:40,033 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:40,045 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:41,631 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:41,640 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:43,171 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:43,181 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:43,872 - [INFO] - Image prediction : flag : 3 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:43,903 - [INFO] - emitting event "Processed_Image" to f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:43,904 - [INFO] - emitting event "Border_Image" to f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:44,595 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:44,604 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:45,089 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:49:45,967 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:45,977 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:47,526 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:47,537 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:49,047 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:49,071 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:50,636 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:50,649 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:52,174 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:52,184 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:53,737 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:53,755 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:55,443 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:55,455 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:56,492 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:56,504 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:58,412 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:58,429 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:49:59,604 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:49:59,615 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:01,088 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:01,099 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:02,840 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:02,852 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:04,285 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:04,295 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:05,617 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:05,632 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:07,397 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:07,416 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:08,791 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:08,800 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:10,332 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:10,341 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:11,873 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:11,881 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:13,371 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:13,387 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:14,796 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:14,807 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:16,448 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:16,467 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:17,709 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:17,728 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:19,197 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:19,209 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:20,994 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:21,004 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:22,421 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:22,442 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:23,853 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:23,863 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:25,461 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:25,473 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:26,900 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:26,913 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:28,236 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:28,256 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:30,022 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:30,041 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:31,453 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:31,465 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:32,767 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:32,787 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:34,368 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:34,380 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:36,151 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:36,162 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:37,536 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:37,551 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:38,867 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:38,888 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:40,293 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:40,300 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:41,786 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:41,806 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:43,277 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:43,294 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:45,267 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:45,287 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:46,468 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:46,478 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:48,105 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:48,115 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:49,685 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:49,697 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:51,160 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:51,178 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:52,611 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:52,625 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:54,293 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:54,307 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:55,406 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:55,425 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:56,942 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:56,953 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:58,360 - [INFO] - received event "Captured_Image" from f7e19ae047cc4308a6e8350db81e3313 [/videofeed]
+2021-05-09 18:50:58,371 - [DEBUG] - client f7e19ae047cc4308a6e8350db81e3313 request image size (576, 576, 3)
+2021-05-09 18:50:58,857 - [INFO] - Image prediction : flag : 0 for client f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:50:58,996 - [DEBUG] - client disconnected: f7e19ae047cc4308a6e8350db81e3313
+2021-05-09 18:54:03,117 - [INFO] - App Started.
+2021-05-09 18:54:25,163 - [DEBUG] - New client connected: 9e801135985c4ed0a655490ff1d56e87
+2021-05-09 18:54:27,105 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:27,143 - [DEBUG] - client 9e801135985c4ed0a655490ff1d56e87 request image size (576, 576, 3)
+2021-05-09 18:54:28,336 - [INFO] - Image prediction : flag : 0 for client 9e801135985c4ed0a655490ff1d56e87
+2021-05-09 18:54:28,808 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:28,825 - [DEBUG] - client 9e801135985c4ed0a655490ff1d56e87 request image size (576, 576, 3)
+2021-05-09 18:54:35,367 - [INFO] - Image prediction : flag : 2 for client 9e801135985c4ed0a655490ff1d56e87
+2021-05-09 18:54:35,407 - [INFO] - emitting event "Processed_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:35,407 - [INFO] - emitting event "Border_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:35,494 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:35,521 - [DEBUG] - client 9e801135985c4ed0a655490ff1d56e87 request image size (576, 576, 3)
+2021-05-09 18:54:39,871 - [INFO] - Image prediction : flag : 2 for client 9e801135985c4ed0a655490ff1d56e87
+2021-05-09 18:54:39,908 - [INFO] - emitting event "Processed_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:39,916 - [INFO] - emitting event "Border_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:40,011 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:40,020 - [DEBUG] - client 9e801135985c4ed0a655490ff1d56e87 request image size (576, 576, 3)
+2021-05-09 18:54:44,400 - [INFO] - Image prediction : flag : 2 for client 9e801135985c4ed0a655490ff1d56e87
+2021-05-09 18:54:44,444 - [INFO] - emitting event "Processed_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:44,444 - [INFO] - emitting event "Border_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:44,573 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:44,637 - [DEBUG] - client 9e801135985c4ed0a655490ff1d56e87 request image size (576, 576, 3)
+2021-05-09 18:54:48,977 - [INFO] - Image prediction : flag : 2 for client 9e801135985c4ed0a655490ff1d56e87
+2021-05-09 18:54:49,024 - [INFO] - emitting event "Processed_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:49,025 - [INFO] - emitting event "Border_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:49,112 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:49,163 - [DEBUG] - client 9e801135985c4ed0a655490ff1d56e87 request image size (576, 576, 3)
+2021-05-09 18:54:53,548 - [INFO] - Image prediction : flag : 2 for client 9e801135985c4ed0a655490ff1d56e87
+2021-05-09 18:54:53,607 - [INFO] - emitting event "Processed_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:53,608 - [INFO] - emitting event "Border_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:53,679 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:53,724 - [DEBUG] - client 9e801135985c4ed0a655490ff1d56e87 request image size (576, 576, 3)
+2021-05-09 18:54:58,102 - [INFO] - Image prediction : flag : 2 for client 9e801135985c4ed0a655490ff1d56e87
+2021-05-09 18:54:58,139 - [INFO] - emitting event "Processed_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:58,139 - [DEBUG] - client disconnected: 9e801135985c4ed0a655490ff1d56e87
+2021-05-09 18:54:58,139 - [INFO] - emitting event "Border_Image" to 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:58,205 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:58,205 - [WARNING] - 9e801135985c4ed0a655490ff1d56e87 is not connected to namespace /videofeed
+2021-05-09 18:54:58,278 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:58,278 - [WARNING] - 9e801135985c4ed0a655490ff1d56e87 is not connected to namespace /videofeed
+2021-05-09 18:54:58,375 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:58,375 - [WARNING] - 9e801135985c4ed0a655490ff1d56e87 is not connected to namespace /videofeed
+2021-05-09 18:54:58,448 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:58,448 - [WARNING] - 9e801135985c4ed0a655490ff1d56e87 is not connected to namespace /videofeed
+2021-05-09 18:54:58,636 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:58,636 - [WARNING] - 9e801135985c4ed0a655490ff1d56e87 is not connected to namespace /videofeed
+2021-05-09 18:54:58,727 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:58,727 - [WARNING] - 9e801135985c4ed0a655490ff1d56e87 is not connected to namespace /videofeed
+2021-05-09 18:54:58,827 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:58,827 - [WARNING] - 9e801135985c4ed0a655490ff1d56e87 is not connected to namespace /videofeed
+2021-05-09 18:54:58,955 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:58,955 - [WARNING] - 9e801135985c4ed0a655490ff1d56e87 is not connected to namespace /videofeed
+2021-05-09 18:54:59,044 - [INFO] - received event "Captured_Image" from 9e801135985c4ed0a655490ff1d56e87 [/videofeed]
+2021-05-09 18:54:59,044 - [WARNING] - 9e801135985c4ed0a655490ff1d56e87 is not connected to namespace /videofeed
+2021-05-09 18:55:00,146 - [DEBUG] - New client connected: 3243b44456304084a531964b07b80000
+2021-05-09 18:55:00,430 - [INFO] - received event "Captured_Image" from 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:55:00,444 - [DEBUG] - client 3243b44456304084a531964b07b80000 request image size (576, 576, 3)
+2021-05-09 18:55:04,745 - [INFO] - Image prediction : flag : 2 for client 3243b44456304084a531964b07b80000
+2021-05-09 18:55:04,788 - [INFO] - emitting event "Processed_Image" to 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:55:04,788 - [INFO] - emitting event "Border_Image" to 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:55:05,311 - [INFO] - received event "Captured_Image" from 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:55:05,332 - [DEBUG] - client 3243b44456304084a531964b07b80000 request image size (576, 576, 3)
+2021-05-09 18:55:09,698 - [INFO] - Image prediction : flag : 2 for client 3243b44456304084a531964b07b80000
+2021-05-09 18:55:09,738 - [INFO] - emitting event "Processed_Image" to 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:55:09,738 - [INFO] - emitting event "Border_Image" to 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:55:09,738 - [INFO] - received event "Captured_Image" from 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:55:09,751 - [DEBUG] - client 3243b44456304084a531964b07b80000 request image size (576, 576, 3)
+2021-05-09 18:55:14,114 - [INFO] - Image prediction : flag : 2 for client 3243b44456304084a531964b07b80000
+2021-05-09 18:55:14,148 - [INFO] - emitting event "Processed_Image" to 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:55:14,148 - [INFO] - emitting event "Border_Image" to 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:55:14,148 - [INFO] - received event "Captured_Image" from 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:55:14,168 - [DEBUG] - client 3243b44456304084a531964b07b80000 request image size (576, 576, 3)
+2021-05-09 18:55:18,486 - [INFO] - Image prediction : flag : 2 for client 3243b44456304084a531964b07b80000
+2021-05-09 18:55:18,520 - [INFO] - emitting event "Processed_Image" to 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:55:18,520 - [INFO] - emitting event "Border_Image" to 3243b44456304084a531964b07b80000 [/videofeed]
+2021-05-09 18:56:25,123 - [DEBUG] - client disconnected: 3243b44456304084a531964b07b80000
