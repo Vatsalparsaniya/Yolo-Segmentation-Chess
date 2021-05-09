@@ -20,6 +20,7 @@ google-auth-oauthlib==0.4.4
 google-pasta==0.2.0
 greenlet==1.0.0
 grpcio==1.32.0
+gunicorn==20.1.0
 h5py==2.10.0
 idna==2.10
 imageio==2.9.0
