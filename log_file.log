@@ -7066,3 +7066,4 @@
 2021-05-09 18:55:18,520 - [INFO] - emitting event "Processed_Image" to 3243b44456304084a531964b07b80000 [/videofeed]
 2021-05-09 18:55:18,520 - [INFO] - emitting event "Border_Image" to 3243b44456304084a531964b07b80000 [/videofeed]
 2021-05-09 18:56:25,123 - [DEBUG] - client disconnected: 3243b44456304084a531964b07b80000
+2021-05-10 11:12:31,715 - [INFO] - App Started.
