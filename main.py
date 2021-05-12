@@ -98,7 +98,7 @@ if __name__ == "__main__":
 
     try:
         logger.info("App Started.")
-        socketio.run(app, host="0.0.0.0", port=4812, debug=False,
+        socketio.run(app, host="0.0.0.0", port=5000, debug=False,
                      certfile='SSL_Certificate/localhost.crt',
                      keyfile='SSL_Certificate/localhost.key'
                      )
