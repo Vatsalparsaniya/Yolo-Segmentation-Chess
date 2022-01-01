@@ -19,4 +19,5 @@ This is a self-learning project that demonstrates how to detect chess board corn
 - make sure you use `https` instead of `http`. 
 - Since I'm using locally produced SSL certificates, the risk warning will appear, but you can overlook it.
 - grant camera permissions.
+- Generate your own certificate if SSL certified doesn't work, [here](https://stackoverflow.com/a/32169444/9735841) or  [here](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
 
